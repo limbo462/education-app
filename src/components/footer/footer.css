@@ -1,0 +1,29 @@
+.footer {
+    text-align: center;
+    background-color:#17a2b8;
+    color: white;
+  }
+  .title h4{
+    text-decoration: underline;
+  }
+  .title{
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+    font-family:"Montserrat-Black";
+  }
+  .text{
+    color: ivory;
+    font-family:"Montserrat-Black";
+
+  }
+  .text:hover,
+  .text:active{
+    color: #111d5e;
+    text-decoration: none;
+  }
+  .list{
+    padding: 2px;
+    font-size: 16px;
+    line-height: 1.6;
+  }

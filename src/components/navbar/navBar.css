@@ -1,0 +1,36 @@
+.nav{
+    display: flex;
+    justify-content: flex-start;
+    border-width: 2px;
+    background-color: #17a2b8;
+    color: white;
+    padding: 6px;
+    width: 100%;
+}
+.nv{
+    margin-left: 30px;
+    font-size: 1.25rem;
+}
+.text{
+    color: ivory;
+    font-family:"Montserrat-Black";
+
+  }
+  .text:hover,
+  .text:active{
+    color: #111d5e;
+    text-decoration: none;
+  }
+  .total{
+    display: flex;
+    flex-direction: row;
+    font-family: "Montserrat-Bold";
+  }
+  .homepage{
+     margin-left: 20px;
+  }
+  .right{
+    display: flex;
+    padding-right: 20px;
+    justify-content: flex-end;
+  }
